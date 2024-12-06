@@ -1,8 +1,4 @@
 # Snake Game 🐍
-## Contributors : 
-[Anika Islam](https://github.com/anikabytes) <br/>
-[Sreya Majumder](https://github.com/sreya-majumder) <br/>
-[Aurchi Roy]()
 ## Game Features : 
 ### Main Features :-
 1. Snake feeding on two food types of different scores. <br/>
